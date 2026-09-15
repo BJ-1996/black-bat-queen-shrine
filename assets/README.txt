@@ -1,1 +1,0 @@
-V10 image assets are embedded/staged for deployment.
